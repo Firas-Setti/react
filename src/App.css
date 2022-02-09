@@ -1,0 +1,22 @@
+.App {
+  width: 75%;
+  margin: 50px auto;
+  background-color: rgb(163, 172, 211);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.login {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.check {
+  display: flex;
+  justify-content:center;
+}
+
+.btn1 {
+  display: block !important;
+  margin: 0 auto;
+}
